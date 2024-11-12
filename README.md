@@ -19,12 +19,6 @@ I'm a passionate developer with expertise in Full-Stack Web Development. I love 
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript) | ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js&logoColor=green) | ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visual-studio-code&logoColor=blue) |
 | ![HTML](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5) | ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker) | ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux) |
 
----
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
