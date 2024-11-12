@@ -1,17 +1,13 @@
-# 🌟 Hello, I'm [Your Name] 🌟
-
-![Welcome Banner](https://user-images.githubusercontent.com/your-banner-image-url) <!-- Optional banner -->
+# 🌟 Hello, I'm Ramzi Razik 🌟
 
 ## 👋 About Me
-I'm a passionate developer with expertise in **[Your Main Skill/Field]**. I love creating, building, and learning about the latest in **[Your Interest Areas like AI, Web Development, etc.]**. Currently, I'm focused on improving my skills in **[Your Focused Technologies or Fields]**.
+I'm a passionate developer with expertise in Full-Stack Web Development. I love crafting smooth user experiences and creating efficient backend solutions. Currently, I'm focused on building projects in React, Node.js, and TypeScript.
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Your Current Learning Goal or Tech]**
-- 👯 I’m looking to collaborate on **[Projects you're interested in]**
-- 🤔 I’m looking for help with **[Areas you need help with]**
-- 💬 Ask me about **[Topics you’re knowledgeable about]**
-- 📫 How to reach me: [Your Contact Info or Links]
-- ⚡ Fun fact: **[Your Fun Fact]**
+- 🌱 I’m currently learning GraphQL and Machine Learning.
+- 👯 I’m looking to collaborate on open-source JavaScript projects.
+- 💬 Ask me about JavaScript and the latest web dev tools.
+- 📫 How to reach me: ramzirazik333@gmail.com
+- ⚡ Fun fact: When I’m not coding, you’ll probably find me out riding my bike!
 
 ---
 
@@ -34,28 +30,11 @@ I'm a passionate developer with expertise in **[Your Main Skill/Field]**. I love
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramzi-razik-a768ba21a/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ramzi_razik)
 
 ---
 
-## 💼 Featured Projects
 
-- **[Project 1 Name](https://github.com/your-username/project1)**: Brief description of your project and its purpose.
-- **[Project 2 Name](https://github.com/your-username/project2)**: Brief description of your project and its purpose.
-- **[Project 3 Name](https://github.com/your-username/project3)**: Brief description of your project and its purpose.
 
----
 
-## 🏆 Achievements
-
-- **Completed 100+ Projects** in [Your Technology/Field].
-- **Contributor** to [Open Source Project or Organization Name].
-- **Award or Certification**: Details or achievement description.
-
----
-
-**Thank you for visiting my profile!** 😊
-
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username)
